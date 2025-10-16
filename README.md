@@ -4,4 +4,4 @@ User details:
 Name: Iwegbu Jedidiah  
 Slack username: bytepotato  
 Project description: A simple web page deployment task with AWS and NGINX.  
-Server IP: http://54.86.51.75 
+Server IP: 54.86.51.75 
